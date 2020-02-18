@@ -1,0 +1,17 @@
+{
+  "name": "google_hashcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "tsc --sourcemap --w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^13.7.0",
+    "tslint": "^6.0.0",
+    "typescript": "^3.7.5"
+  }
+}
